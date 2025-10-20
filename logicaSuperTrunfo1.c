@@ -37,6 +37,7 @@ int main() {
                 printf("%s venceu!\n", nome2);
             } else {
                 printf("Empate!\n"); }
+            printf("===================================\n");
             break;
 
         case 2:
@@ -52,6 +53,7 @@ int main() {
             } else {
             printf("Resultado: Empate!\n");
             }
+            printf("===================================\n");
             break;
 
         case 3:
@@ -65,6 +67,7 @@ int main() {
                 printf("%s venceu!\n", nome2);
             } else {
                 printf("Empate!\n"); }
+            printf("===================================\n");
             break;
 
         case 4:
@@ -78,6 +81,7 @@ int main() {
                 printf("%s venceu!\n", nome2);
             } else {
                 printf("Empate!\n"); }
+            printf("===================================\n");
             break;
 
         case 5:
@@ -91,6 +95,7 @@ int main() {
                 printf("%s venceu!\n", nome2);
             } else {
                 printf("Empate!\n"); }
+            printf("===================================\n");
             break;
             
         default:
